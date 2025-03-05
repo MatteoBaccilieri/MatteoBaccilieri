@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Matteo 👋
 
-<!--
-**MatteoBaccilieri/MatteoBaccilieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+I'm a Master's student in **Computer Science** based in **Bologna, Italy**. Passionate about **software development** and **real-time embedded systems**.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages**: Java, C++, Python
+- **Frameworks & Libraries**: React, Node.js
+- **Databases**: MySQL, MongoDB
+- **Tools**: Git, Docker, VS Code, Jupyter Notebook
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to Reach Me
+- 📧 Email: [matteo.baccilieri@studio.unibo.it or matteo.baccilieri@gmail.com]
+- 💼 LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/matteo-baccilieri-9038a3331/))
