@@ -11,4 +11,4 @@ I'm a Master's student in **Computer Science** based in **Bologna, Italy**. Pass
 
 ## 📫 How to Reach Me
 - 📧 Email: [matteo.baccilieri@studio.unibo.it or matteo.baccilieri@gmail.com]
-- 💼 LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/matteo-baccilieri-9038a3331/))
+- 💼 LinkedIn: ([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/matteo-baccilieri-9038a3331/))
