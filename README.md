@@ -1,7 +1,7 @@
 # Hi there, I'm Matteo 👋
 
 ## 🎓 About Me
-I'm a Master's student in **Computer Science** based in **Bologna, Italy**. Passionate about **software development** and **real-time embedded systems**.
+I'm a Master's student in **Computer Science** at UniMore based in **Bologna, Italy**. Passionate about **software development** and **real-time embedded systems**.
 
 ## 🛠️ Tech Stack
 - **Languages**: Java, C++, Python
